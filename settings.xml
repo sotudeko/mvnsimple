@@ -37,9 +37,6 @@
   <activeProfile>nexus</activeProfile>
 </activeProfiles>
 
-
-
-
 <servers>
     <server>
       <username>admin</username>
@@ -54,21 +51,9 @@
     <server>
       <username>admin</username>
       <password>admin123</password>
-      <id>clm_server_producer</id>
-    </server>
-    <server>
-      <username>admin</username>
-      <password>admin123</password>
       <id>nexus</id>
     </server>
 
   </servers>
-
-
-  <pluginGroups>
-  	<pluginGroup>com.sonatype.clm</pluginGroup>
-  </pluginGroups>
-
-
 
 </settings>
