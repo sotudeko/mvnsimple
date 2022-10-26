@@ -62,29 +62,6 @@
       <id>nexus</id>
     </server>
 
-    <server>
-      <username>ateamuser</username>
-      <password>ateamuser</password>
-      <id>ateam</id>
-    </server>
-
-    <server>
-      <username>admin</username>
-      <password>admin123</password>
-      <id>nexus-ei-1</id>
-    </server>
-    <server>
-      <username>admin</username>
-      <password>admin123</password>
-      <id>nexus-ei-2</id>
-    </server>
-
-    <server>
-      <username>bteamuser</username>
-      <password>bteamuser</password>
-      <id>bteam</id>
-    </server>
-
   </servers>
 
 
